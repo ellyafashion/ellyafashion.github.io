@@ -323,8 +323,9 @@ ol {
 }
 
 .header__logo {
-  width: 100px;
-  padding: 30px 0;
+  width: 110px;
+  padding-top: 30px;
+  padding-bottom: 30px;
 }
 
 .header__logo a {
